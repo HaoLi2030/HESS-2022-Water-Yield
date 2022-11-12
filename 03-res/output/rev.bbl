@@ -1,0 +1,35 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{{\tt #1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{https://doi.org/\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{https://doi.org/\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{Fang et~al.(2019)Fang, Baret, Plummer, and
+  Schaepman-Strub}]{fang2019overview}
+Fang, H., Baret, F., Plummer, S., and Schaepman-Strub, G.: An overview of
+  global leaf area index (LAI): Methods, products, validation, and
+  applications, Reviews of Geophysics, 57, 739--799, 2019.
+
+\bibitem[{Hu et~al.(2022)Hu, Piao, Knapp, Wang, Peng, Yuan, Running, Mao, Shi,
+  Ciais et~al.}]{hu2022decoupling}
+Hu, Z., Piao, S., Knapp, A.~K., Wang, X., Peng, S., Yuan, W., Running, S., Mao,
+  J., Shi, X., Ciais, P., et~al.: Decoupling of greenness and gross primary
+  productivity as aridity decreases, Remote Sensing of Environment, 279,
+  113\,120, 2022.
+
+\bibitem[{Immerzeel et~al.(2010)Immerzeel, Van~Beek, and
+  Bierkens}]{immerzeel2010climate}
+Immerzeel, W.~W., Van~Beek, L.~P., and Bierkens, M.~F.: Climate change will
+  affect the Asian water towers, Science, 328, 1382--1385, 2010.
+
+\bibitem[{Wang et~al.(2021)Wang, Yao, Chai, Cuo, Su, Zhang, Yao, Zhang, Li, Qi
+  et~al.}]{wang2021tp}
+Wang, L., Yao, T., Chai, C., Cuo, L., Su, F., Zhang, F., Yao, Z., Zhang, Y.,
+  Li, X., Qi, J., et~al.: TP-River: Monitoring and quantifying total river
+  runoff from the Third Pole, Bulletin of the American Meteorological Society,
+  102, E948--E965, 2021.
+
+\end{thebibliography}

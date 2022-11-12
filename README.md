@@ -1,0 +1,1 @@
+This study uses the Double Mass Curve (DMC) technique to jointly assess historical WY responses to climate warming and associated environmental changes in the Upper Brahmaputra River (UBR) basin.
